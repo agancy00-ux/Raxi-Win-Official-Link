@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://agancy00-ux.github.io/Raxi-Win-Official-Link/sitemap.xml
+Sitemap: https://raxi-win-official-link.pages.dev/sitemap.xml
